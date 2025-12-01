@@ -4,6 +4,8 @@ To simulate an operational based Inverting Amplifier
 ## Apparatus required:
 PC with LT Spice Software
 ## Circuit Diagram:
+<img width="907" height="746" alt="image" src="https://github.com/user-attachments/assets/e145260b-311b-4e62-a19e-01e8af248a43" />
+
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
@@ -39,7 +41,13 @@ PC with LT Spice Software
 16.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## THEORITICAL CALCULATION:
+<img width="1049" height="621" alt="image" src="https://github.com/user-attachments/assets/5f630ad7-8b59-47dd-a58b-f8dda18dcaff" />
+
 
 ## OUTPUTS:
+<img width="907" height="639" alt="image" src="https://github.com/user-attachments/assets/0a6ca64c-4709-4c1a-92e4-55d165f41025" />
+<img width="904" height="640" alt="image" src="https://github.com/user-attachments/assets/a35fc85e-b1b9-461b-ace0-c6ccbac26e27" />
+
+
 
 ## RESULT:
